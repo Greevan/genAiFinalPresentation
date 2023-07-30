@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "142210993094",
+    "project_id": "genai-de439",
+    "storage_bucket": "genai-de439.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142210993094:android:fea5fa1106b5bc9cbd40c7",
+        "android_client_info": {
+          "package_name": "com.mycompany.sentitrip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142210993094-ma5ebd711v0uqljnn8a5j29jkbnm61h5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.sentitrip",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "142210993094-jf3svintagqaodltk2ju909ma0m45sfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7VNRzkGuvqCd-UiYp4bArrEtdYAa5zkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142210993094-jf3svintagqaodltk2ju909ma0m45sfi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "142210993094-n9irjna4vupp46shag6j6p9egtscnkir.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.sentitrip"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
